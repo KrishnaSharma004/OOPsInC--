@@ -44,3 +44,9 @@ int main(){
 
     return 0;
 }
+/*Base class member Access Specifier.  ->  public.    protected.   private.
+
+       Public                              public     protected    private
+       Protected                           protected  protected    private
+       Private                             NOTAss     NOTAss       NOTAss
+*/
