@@ -6,7 +6,7 @@ using namespace std;
 #define ll long long 
 
 class Kohli{
-    //Fully Encapsulation : Making all data mebers private.
+    //Fully Encapsulation : Making all data members private.
     private:
     int StrikeRate;
     int Runs;
